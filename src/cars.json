@@ -1,0 +1,23 @@
+[
+  {
+    "vin_prefix": "3TMKB5",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2024,
+    "trim": "TRD Sport"
+  },
+  {
+    "vin_prefix": "1HGCM8",
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "trim": "EX-L"
+  },
+  {
+    "vin_prefix": "5YJ3E1",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "trim": "Long Range"
+  }
+]
