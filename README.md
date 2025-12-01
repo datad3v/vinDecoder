@@ -53,6 +53,16 @@ uvicorn src.app:app --reload
 API will run at:
 http://127.0.0.1:8000
 
+### 4. Ready to Run:
+Once you paste these files in:
+
+```bash
+cd car-info-api
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn src.app:app --reload
+
 
 ---
 
@@ -76,14 +86,3 @@ Run tests with:
 pytest
 
 
----
-
-# **Ready to Run**
-Once you paste these files in:
-
-```bash
-cd car-info-api
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn src.app:app --reload
