@@ -38,7 +38,7 @@ car-info-api/
 
 ---
 
-## ▶️ Running Locally
+## Running Locally
 
 ### 1. Create virtual environment
 python3 -m venv venv
@@ -56,7 +56,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 🔍 Example
+## Example
 
 ### Request:
 GET /decode?vin=3TMKB5FN0SM050383
@@ -78,7 +78,7 @@ pytest
 
 ---
 
-# 🎉 **Ready to Run**
+# **Ready to Run**
 Once you paste these files in:
 
 ```bash
